@@ -23,6 +23,5 @@ public class Truck extends Automobile{
 		return "Make: " + this.make + " Year: " + this.year + " Weight: " + this.weight + " License Plate: " + this.licensePlate + " Tow Capacity: " + this.towCapacity;
 	}
 	
-	
 
 }
