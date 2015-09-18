@@ -1,4 +1,3 @@
-
 public class Car extends Automobile {
 	
 	int maxPassengers;
