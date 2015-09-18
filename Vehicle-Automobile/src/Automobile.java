@@ -1,4 +1,3 @@
-
 public class Automobile extends Vehicle{
 	
 	String licensePlate;
